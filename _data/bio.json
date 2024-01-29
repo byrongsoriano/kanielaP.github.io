@@ -16,11 +16,11 @@
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
+    { "name": "Renewable Energy" },
+    { "name": "Signals and Systems" },
+    { "name": "Electromagnetics" },
     { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Anime" }
   ],
   "skills": [
     {
